@@ -7,24 +7,28 @@
 #### go back to root folder and run yarn start
 
 --> Home Page
+![home1](https://github.com/Surajkushwaha12/Task_Management_Application/assets/134843134/79491dcf-23c9-4105-8301-07a30ac0bbb2)
 
-![home1](https://github.com/Surajkushwaha12/task_Management_System/assets/134843134/27c1a59a-5ca9-45f0-a291-0b8383635717)
 
 --> SignUp
 
-![signup](https://github.com/Surajkushwaha12/task_Management_System/assets/134843134/cb3bd04d-5cdc-4af4-aee1-1ae3424ed5a0)
+![signup](https://github.com/Surajkushwaha12/Task_Management_Application/assets/134843134/d6ba032e-aaa1-4868-b138-72918748d6c9)
+
 
 --> SignIn
 
-![Signin](https://github.com/Surajkushwaha12/task_Management_System/assets/134843134/89325439-4f2f-43eb-9251-4098fe528ff5)
+![Signin](https://github.com/Surajkushwaha12/Task_Management_Application/assets/134843134/faee3efb-b846-4e3d-a932-a5132ffc5bf4)
+
 
 --> DashBoard
 
-![DashBoard](https://github.com/Surajkushwaha12/task_Management_System/assets/134843134/ee9be286-cac9-48f7-aad3-d4e0177e1cb6)
+![DashBoard](https://github.com/Surajkushwaha12/Task_Management_Application/assets/134843134/77940f44-a0e8-4e91-9917-4f9c30938340)
+
 
 --> Add Task
 
-![AddTask](https://github.com/Surajkushwaha12/task_Management_System/assets/134843134/e25d6e27-b050-481e-8fee-f313225b35ea)
+![AddTask](https://github.com/Surajkushwaha12/Task_Management_Application/assets/134843134/00e17992-d9d4-4b82-b18f-211af1db7fbd)
+
 
 
 
