@@ -1,6 +1,6 @@
 const mongoose = require('mongoose');
 
-const mongoURI = 'mongodb+srv://surajkushwaha8272:Suraj12345@cluster0.oujegeq.mongodb.net';
+const mongoURI = 'mongodb+srv://surajkushwaha8272:Suraj12345@cluster0.oujegeq.mongodb.net/TaskManagement';
 //mongodb://localhost:27017
 const options = {
 	useNewUrlParser: true,
